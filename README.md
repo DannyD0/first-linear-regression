@@ -40,3 +40,8 @@ A simple linear regression model was trained to identify the relationship betwee
 
 ## Output
 After running the script, you’ll see a scatter plot of actual scores (blue dots) and the predicted regression line (red line).
+## 📈 Visualization
+The scatter plot below shows the actual vs predicted scores:
+
+![Scatter Plot of Actual vs Predicted Scores](example.png)
+
