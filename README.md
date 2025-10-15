@@ -43,5 +43,6 @@ After running the script, you’ll see a scatter plot of actual scores (blue dot
 ## 📈 Visualization
 The scatter plot below shows the actual vs predicted scores:
 
-![Scatter Plot of Actual vs Predicted Scores](example.png)
+![Scatter Plot of Actual vs Predicted Scores](<img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/9d0ff93a-1895-4672-8355-d2984707cced" />
+)
 
