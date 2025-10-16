@@ -1,4 +1,4 @@
-# first-linear-regression
+# my-first-linear-regression-project
 Predicting student scores of a test using Linear Regression (My first ML project)
 
 Author: Daniel Daramola  
