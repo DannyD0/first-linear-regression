@@ -4,11 +4,11 @@ Predicting student scores of a test using Linear Regression (My first ML project
 Author: Daniel Daramola  
 Date: October 2025  
 
-## 📘 Project Overview
+## Project Overview
 This is my first machine learning project.  
 The goal of this project is to predict test scores of students based on the number of hours they studied using **Linear Regression**.
 
-## ⚙️ Tools Used
+## Tools Used
 - Python
 - NumPy
 - Pandas
